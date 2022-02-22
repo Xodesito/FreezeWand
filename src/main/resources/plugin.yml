@@ -1,0 +1,6 @@
+name: FreezeWand
+version: '${project.version}'
+main: com.realxode.freezewand.FreezeWand
+api-version: 1.18
+commands:
+  freezewand:
